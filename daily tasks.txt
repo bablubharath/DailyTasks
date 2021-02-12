@@ -1,0 +1,24 @@
+access eks cluster from local system
+
+08/02/2021
+setup jenkins and eks cluster
+
+add user in jenkins and setup master slave setup
+setu minikube in laptop
+
+11/02/2021
+shell script task
+take tw numbers print bigger number--->Done
+take shell script arguments 10
+shell script concept:-
+if condition-->control statements
+loops
+develop a basic html website using headers concept
+create folders in github 
+tasks/ansible/terraform/kubernetes/jenkins/automation/aws
+1.display i am users list by using python
+2.take two numbers and print biggest number in python
+----->>rolling update in kubernetes
+11/02/2021
+deployed an image into tomcat
+rolling update done
