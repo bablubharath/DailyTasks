@@ -1,0 +1,25 @@
+RESERVED WORDS:
+
+true,false,none--->booolean operators
+and,or,nt,is--->special & identity operators
+if,elif,else--->conditional statements
+while,for,break,continue,return,in,yield--->iterative statements
+try,except,,finally,raise,assert--->exceptional operators
+import,from,as,class,(def,pass--->fuctions)
+globalnonlocal,lambda,del,(with--->file handling)
+
+DATA TYPES
+
+int------>functional
+float
+complex
+bool
+bytes
+list------>collections or data structures.> l=[1,2,3,4,2,1,2, 'true']==>mutable___it can be represents in []
+tuple------------------------------------>t=(1,2,3,4)==>immutable
+set-------------------------------------> s={1,2,3,4,5,6}
+dict------------------------------------> d={10 : 'name',102: 'name',103: 'name'}
+frozenset
+string----------------------------------> s=
+
+
